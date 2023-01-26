@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BEEE23C3298340E600C5E6FC /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEEE23C2298340E600C5E6FC /* DetailView.swift */; };
 		BEF562562982412900486A6A /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF562552982412900486A6A /* ScrumdingerApp.swift */; };
 		BEF562582982412900486A6A /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF562572982412900486A6A /* MeetingView.swift */; };
 		BEF5625A2982412900486A6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEF562592982412900486A6A /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BEEE23C2298340E600C5E6FC /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		BEF562522982412900486A6A /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEF562552982412900486A6A /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		BEF562572982412900486A6A /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				BEF5626829824AB100486A6A /* CardView.swift */,
 				BEF562572982412900486A6A /* MeetingView.swift */,
 				BEF5626C2982526000486A6A /* ScrumsView.swift */,
+				BEEE23C2298340E600C5E6FC /* DetailView.swift */,
 				BEF5626A29824E0B00486A6A /* TrailingIconLabelStyle.swift */,
 				BEF562592982412900486A6A /* Assets.xcassets */,
 				BEF5625B2982412900486A6A /* Preview Content */,
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEF56267298249C900486A6A /* DailyScrum.swift in Sources */,
+				BEEE23C3298340E600C5E6FC /* DetailView.swift in Sources */,
 				BEF5626B29824E0B00486A6A /* TrailingIconLabelStyle.swift in Sources */,
 				BEF562652982488500486A6A /* Theme.swift in Sources */,
 				BEF5626D2982526000486A6A /* ScrumsView.swift in Sources */,
