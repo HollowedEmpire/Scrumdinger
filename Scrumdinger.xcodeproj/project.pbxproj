@@ -63,12 +63,12 @@
 			children = (
 				BEF562632982486B00486A6A /* Models */,
 				BEF562552982412900486A6A /* ScrumdingerApp.swift */,
+				BEF5626829824AB100486A6A /* CardView.swift */,
 				BEF562572982412900486A6A /* MeetingView.swift */,
+				BEF5626C2982526000486A6A /* ScrumsView.swift */,
+				BEF5626A29824E0B00486A6A /* TrailingIconLabelStyle.swift */,
 				BEF562592982412900486A6A /* Assets.xcassets */,
 				BEF5625B2982412900486A6A /* Preview Content */,
-				BEF5626829824AB100486A6A /* CardView.swift */,
-				BEF5626A29824E0B00486A6A /* TrailingIconLabelStyle.swift */,
-				BEF5626C2982526000486A6A /* ScrumsView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
